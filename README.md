@@ -23,20 +23,20 @@ Here you will find my **R-based data analysis** projects. Use the **heading link
 
 <img src="./Media/SS_Run.gif" alt="Visual of Code Execution" width="60%" />
 
-### 2. [🏡 **Project 2 - District Dynamics** 🏡](./Project%202%20-%20District%20Dynamics)  
-- **Summary**: This project analyzes key housing data such as square footage, cost, and location to identify trends and detect outliers. I examine influential points to provide insights into the housing market.
-- **Skills Learned**:
-  - All Subset Regression 
-  - Outlier Detection
-  - Data Visualization
-- **Important Note**: Please make sure your working directory is set when running the file!
-  
-
-<br>
-
-<img src="./Media/DD_New_M.gif" alt="Visual of Code Execution" width="60%" />
 
 ---
+
+### 2. [**📊 Project 2 - Payday Perspectives 📊**](./Project%202%20-%20Payday%20Perspectives)
+ 
+- **Summary**: Job market analysis dashboard that simplifies salary tracking within the data field. Includes dynamic visuals and fields for better interpretation.  
+- **Skills Learned**: 
+  - Advanced Excel functions (e.g., **VLOOKUP**, **INDEX-MATCH**)
+  - Conditional formatting to indicate outliers
+  - Detailed Pivot tables, and more!
+    
+<br>
+
+<img src="./Media/PP1.gif" alt="Visual of Spending Analysis" width="75%" />
 
 ### Notes: 
 - For each project, feel free to download the necessary data files (like `spotify_data.csv`) and run them on your local system.
