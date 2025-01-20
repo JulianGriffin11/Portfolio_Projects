@@ -2,53 +2,28 @@
 
 Welcome to my **Portfolio Projects** repository! 🎯  
 
-Here you will find my **Statistics, Data, and Analyst** projects. Use the **heading links** to dive into each project!
-
-<img src="./Media/R_pic.jpeg" alt="R Projects Banner" width="500"/>
+Explore data-driven stories and models through real-world case studies in Excel, SQL, and R. Use the project links below to discover detailed analysis and dynamic visualizations.
 
 ---
 
 ## 🗂️ Projects
 
-### 1. [🎵 **Project 1 - Spotify Symphony** 🎵](./Project%201%20-%20Spotify%20Symphony) 
-- **Summary**: This project dives into the world of Spotify data to uncover what drives song popularity. A linear regression model is built to explore relationships between various song attributes like danceability, energy, tempo, etc. 
-- **Skills Learned**:  
-  - Linear Regression Analysis  
-  - Model Diagnostics and Assumption checks  
-  - Data Wrangling using libraries like `ggplot2`, `lm`, `car`, etc.
-- **Important Note**: Please make sure your working directory is set when running the file!
-  
+### 1. [🎵 **Spotify Symphony** 🎵](./Project%201%20-%20Spotify%20Symphony/README.md)
+- **Summary**: A deep dive into Spotify data, exploring what makes a song popular.  
+- **Tools**: R, Excel  
+- **Skills**: Linear Regression, Model Diagnostics, Data Visualization
 
-<br>
-
-<img src="./Media/SS_Run.gif" alt="Visual of Code Execution" width="60%" />
-
-### 2. [🏡 **Project 2 - Payday Perspectives** 🏡](./Project%202%20-%20District%20Dynamics)  
-- **Summary**: This project analyzes key housing data such as square footage, cost, and location to identify trends and detect outliers. I examine influential points to provide insights into the housing market.
-- **Skills Learned**:
-  - All Subset Regression 
-  - Outlier Detection
-  - Data Visualization
-- **Important Note**: Please make sure your working directory is set when running the file!
-  
-
-<br>
-
-<img src="./Media/DD_New_M.gif" alt="Visual of Code Execution" width="60%" />
+### 2. [🏡 **Payday Perspectives** 🏡](./Project%202%20-%20Payday%20Perspectives/README.md)
+- **Summary**: An analysis of payroll trends with SQL and Excel.  
+- **Tools**: SQL, Excel  
+- **Skills**: Query Optimization, Financial Analysis, Visualization
 
 ---
 
-### Notes: 
-- For each project, feel free to download the necessary data files (like `spotify_data.csv`) and run them on your local system.
-- Ensure your **working directory** is set correctly to avoid path issues.
-  
+### 🔗 Check out individual toolsets  
+- [📊 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
+- [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)  
+
 ---
+🚀 Dive in and explore data like never before!  
 
-🚀 Click the heading links to dive deeper into each project! 🚀
-
-- Check out some of my other work:  
-  - [📊 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
-  - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)  
-
-Yours in solutions,   
-**Julian Griffin :)**
