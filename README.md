@@ -11,13 +11,14 @@ Here you will find my **Statistics, Data, and Financial Analytics** projects. Us
 ## 🗂️ Projects
 
 ### 1. [🎵 **Project 1 - Spotify Symphony** 🎵](./Project%201%20-%20Spotify%20Symphony) 
-- **Summary**: This project dives into the world of Spotify data to uncover what drives song popularity. A linear regression model is built to explore relationships between various song attributes like danceability, energy, tempo, etc. 
+- **Summary**: This project aims to uncover key insights into the Spotify song algorithm. A linear regression model is built to explore relationships between various song attributes like danceability, energy, tempo, and more to predict song Popularity.
+- **Applications**: R, Excel
 - **Skills Learned**:  
   - Linear Regression Analysis  
-  - Model Diagnostics and Assumption checks  
+  - Dashboard Construction
+  - Pivot Table Analysis
   - Data Wrangling using libraries like `ggplot2`, `lm`, `car`, etc.
-- **Important Note**: Please make sure your working directory is set when running the file!
-  
+- **Important Note**: Please ensure your working directory is set when acessing the R files!
 
 <br>
 
