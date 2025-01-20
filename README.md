@@ -2,7 +2,7 @@
 
 Welcome to my **Portfolio Projects** repository! 🎯  
 
-Here you will find my **Statistics, Data, and Analytics** projects. Use the **heading links** to dive into each project!
+Here you will find my **Statistics, Data, and Financial Analytics** projects. Use the **heading links** to dive into each project!
 
 <img src="./Media/R_pic.jpeg" alt="R Projects Banner" width="500"/>
 
