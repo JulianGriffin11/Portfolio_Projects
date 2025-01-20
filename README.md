@@ -39,7 +39,7 @@ Here you will find my **Statistics, Data, and Financial Analytics** projects. Us
 <img src="./Media/PP1.gif" alt="Visual of Spending Analysis" width="75%" />
 
 ### Notes: 
-- For each project, feel free to download the necessary data files (like `spotify_data.csv`) and run them on your local system.
+- For each project, you may need to download the necessary data files (like `spotify_data.csv`) and run them on your local system.
 - Ensure your **working directory** is set correctly to avoid path issues.
   
 ---
