@@ -29,7 +29,8 @@ Here you will find my **Statistics, Data, and Financial Analytics** projects. Us
 
 ### 2. [**📊 Project 2 - Payday Perspectives 📊**](./Project%202%20-%20Payday%20Perspectives)
  
-- **Summary**: Job market analysis dashboard that simplifies salary tracking within the data field. Includes dynamic visuals and fields for better interpretation.  
+- **Summary**: Job market analysis dashboard that simplifies salary tracking within the data field. Includes dynamic visuals and fields for better interpretation.
+- **Applications**: SQL, Excel
 - **Skills Learned**: 
   - Advanced Excel functions (e.g., **VLOOKUP**, **INDEX-MATCH**)
   - Conditional formatting to indicate outliers
