@@ -1,8 +1,8 @@
-# 💻 R Projects
+# 💻 Portfolio Projects
 
-Welcome to my **R Projects** repository! 🎯  
+Welcome to my **Portfolio Projects** repository! 🎯  
 
-Here you will find my **R-based data analysis** projects. Use the **heading links** to dive into each project!
+Here you will find my **Statistics, Data, and Analytics** projects. Use the **heading links** to dive into each project!
 
 <img src="./Media/R_pic.jpeg" alt="R Projects Banner" width="500"/>
 
