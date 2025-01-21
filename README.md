@@ -1,4 +1,4 @@
-# 💻 Portfolio Projects
+# 🧠 Portfolio Projects
 
 Welcome to my **Portfolio Projects** repository! 🎯  
 
@@ -10,7 +10,7 @@ Here you will find my **Statistics, Data, and Financial Analytics** projects. Us
 
 ## 🗂️ Projects
 
-### 1. [🎵 **Project 1 - Spotify Symphony** 🎵](./Project%201%20-%20Spotify%20Symphony) 
+### 1. [🎧 **Project 1 - Spotify Symphony** 🎧](./Project%201%20-%20Spotify%20Symphony) 
 - **Summary**: This project aims to uncover key insights into the Spotify song algorithm. A linear regression model is built to explore relationships between various song attributes like danceability, energy, tempo, and more to predict song Popularity.
 - **Applications**: R, Excel
 - **Skills Learned**:  
@@ -22,12 +22,12 @@ Here you will find my **Statistics, Data, and Financial Analytics** projects. Us
 
 <br>
 
-<img src="./Media/SS_Run.gif" alt="Visual of Code Execution" width="60%" />
+<img src="./Media/SS_E_Dashboard.gif" alt="Visual of Dashboard" width="60%" />
 
 
 ---
 
-### 2. [**📊 Project 2 - Payday Perspectives 📊**](./Project%202%20-%20Payday%20Perspectives)
+### 2. [**💎 Project 2 - Payday Perspectives 💎**](./Project%202%20-%20Payday%20Perspectives)
  
 - **Summary**: Job market analysis dashboard that simplifies salary tracking within the data field. Includes dynamic visuals and fields for better interpretation.
 - **Applications**: SQL, Excel
@@ -38,7 +38,7 @@ Here you will find my **Statistics, Data, and Financial Analytics** projects. Us
     
 <br>
 
-<img src="./Media/PP1.gif" alt="Visual of Spending Analysis" width="75%" />
+<img src="./Media/PP_E_Dashboard.gif" alt="Visual of Dashboard" width="60%" />
 
 ### Notes: 
 - For each project, you may need to download the necessary data files (like `spotify_data.csv`) and run them on your local system.
