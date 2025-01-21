@@ -4,7 +4,7 @@ Welcome to my **Portfolio Projects** repository! 🎯
 
 Here you will find my **Statistics, Data, and Financial Analytics** projects. Use the **heading links** to dive into each project!
 
-<img src="./Media/Main2_Banner.jpg" alt="Projects Banner" width="500"/>
+<img src="./Media/Main_Banner.jpg" alt="Projects Banner" width="500"/>
 
 ---
 
