@@ -49,9 +49,10 @@ Here you will find my **Statistics, Data, and Financial Analytics** projects. Us
 
 🚀 Click the heading links to dive deeper into each project! 🚀
 
-- Check out some of my other work:  
-  - [📊 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
-  - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)  
+- Check out some of my other work:
+  - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)
+  - [🌺 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
+  - [👑 R Projects](https://github.com/JulianGriffin11/R_Projects) 
 
 Yours in solutions,   
-**Julian Griffin :)**
+**Julian Griffin**
