@@ -10,8 +10,7 @@ Welcome to *Spotify Symphony*! This project explores the secrets of the Spotify 
 ---
 
 ## 📚 **Table of Contents**
-1. [**Chapter 1: R-Analysis**](./Project%201%20-%20Spotify%20Symphony/Chapter%201%20-%20R%20Analysis)
-
+1. [**Chapter 1: R-Analysis**](./Chapter%201%20-%20R%20Analysis)
    - **Building the Linear Regression Model**: Uncovering the factors that influence song Popularity.  
    - **Assumption Validation & Diagnostics**: Visual insights through detailed diagnostic plots.  
    - **Data Set**: `spotify_data.csv`
