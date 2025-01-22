@@ -1,6 +1,6 @@
 # 🎧 **Spotify Symphony: Unlocking the Spotify Algorithm Secrets** 🎧
 
-<img src="../Media/SS_M_Spotify.jpg" alt="Spotify Banner" width="85%" />
+<img src="../Media/SS_M_Spotify.png" alt="Spotify Banner" width="85%" />
 
 ---
 
