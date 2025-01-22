@@ -8,9 +8,9 @@ Here you will find my **Statistics, Data, and Financial Analytics** projects. Us
 
 ---
 
-## 🗂️ Projects
+## 📂 Projects
 
-### 1. [💥 **Project 1 - Spotify Symphony** 💥](./Project%201%20-%20Spotify%20Symphony) 
+### 1. [🎧 **Project 1 - Spotify Symphony** 🎧](./Project%201%20-%20Spotify%20Symphony) 
 - **Summary**: This project aims to uncover key insights into the Spotify song algorithm. A linear regression model is built to explore relationships between various song attributes like danceability, energy, tempo, and more to predict song Popularity. Come explore my aesthetic visualizations and indepth analysis! 
 - **Applications**: R, Excel
 - **Professional Skills**:  
