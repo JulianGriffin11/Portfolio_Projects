@@ -39,7 +39,7 @@ Welcome to *Spotify Symphony*! This project explores the secrets of the Spotify 
 ### 🚀 **Access the Project**
 - [R Analysis Code](./Chapter%201%20-%20R%20Analysis)
 - [Excel Dashboard](./Chapter%202%20-%20Excel%20Dashboard)
-- [Return to Projects](./)
+- [Return to Projects](../../)
 
 ---
 
