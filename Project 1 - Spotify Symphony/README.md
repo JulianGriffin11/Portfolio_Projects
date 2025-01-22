@@ -15,7 +15,7 @@ Welcome to *Spotify Symphony*! This project explores the secrets of the Spotify 
    - **Assumption Validation & Diagnostics**: Visual insights through detailed diagnostic plots.  
    - **Data Set**: `spotify_data.csv`
 
-3. [**Chapter 2: Excel Dashboard**](./Excel_Dashboard)  
+2. [**Chapter 2: Excel Dashboard**](./Chapter%202%20-%20Excel%20Dashboard)
    - **Deep Dive into Key Covariates**: Analyzing Danceability, Energy, Acousticness, and more!  
    - **Dynamic Visualizations**: Interactive charts and fields to reveal valuable trends.  
    - **Pivot Table Insights**: Unpacking specific impact of Danceability on song Popularity.
@@ -37,9 +37,9 @@ Welcome to *Spotify Symphony*! This project explores the secrets of the Spotify 
 ---
 
 ### 🚀 **Access the Project**
-- [R Analysis Code](./R_Code)
-- [Excel Dashboard](./Excel_Dashboard)  
-- [Return to Projects](./R_Code)
+- [R Analysis Code](./Chapter%201%20-%20R%20Analysis)
+- [Excel Dashboard](./Chapter%202%20-%20Excel%20Dashboard)
+- [Return to Projects](./)
 
 ---
 
