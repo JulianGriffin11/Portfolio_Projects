@@ -1,11 +1,11 @@
-# 🎧 **Spotify Symphony: Unveiling the Secrets of the Spotify Algorithm** 🎧
+# 🎧 **Spotify Symphony: Unveiling the Spotify Algorithm Secrets** 🎧
 
 <img src="../Media/SS_M_Spotify.png" alt="Spotify Banner" width="85%" />
 
 ---
 
 ## 🎬 **Introduction**  
-Welcome to *Spotify Symphony*! This project explores the secrets of the Spotify algorithm by diving deep into the relationship between various song attributes and their Popularity. By leveraging both **Excel** and **R** tools, I provide a comprehensive view into a linear regression model to understand how characteristics like **Danceability**, **Tempo**, and **Energy** influence a track’s success. This project is a harmonious blend of statistical rigor, data visualization, and analytical methods.
+Welcome to *Spotify Symphony*! In this project, I uncover the secrets behind Spotify’s algorithm by exploring how song attributes impact their Popularity. Using a mix of **Excel** and **R**, I build a linear regression model to analyze factors like **Danceability**, **Tempo**, and **Energy**, providing valuable insights into what makes a track successful. This project blends statistical analysis, data visualization, and practical insights in a fascinating way.
 
 ---
 
@@ -29,10 +29,10 @@ Welcome to *Spotify Symphony*! This project explores the secrets of the Spotify 
 
 ---
 
-### ⚙️ **Tools and Techniques**  
-- **Excel**: Dashboards, Pivot Tables, Conditional Formatting  
-- **R**: Linear Regression, Diagnostic Plots, Multicollinearity Checks 
-   - **Key Libraries**: `ggplot2`, `lm()`, `car`, `dplyr`
+### ⚙️ **Tools and Techniques**
+- **Excel**: Used for creating interactive Dashboards, Pivot Tables, and applying Conditional Formatting to analyze trends.  
+- **R**: A powerful tool for building the Linear Regression model, generating Diagnostic Plots, and conducting Multicollinearity Checks.  
+- **Key Libraries**: `ggplot2` (for visualizations), `lm()` (for regression modeling), `dplyr` (for data manipulation) and more!
 
 ---
 
