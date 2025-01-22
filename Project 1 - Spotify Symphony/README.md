@@ -1,4 +1,4 @@
-# 🎧 **Spotify Symphony: Unlocking the Spotify Algorithm Secrets** 🎧
+# 🎧 **Spotify Symphony: Unveiling the Secrets of the Spotify Algorithm** 🎧
 
 <img src="../Media/SS_M_Spotify.png" alt="Spotify Banner" width="85%" />
 
