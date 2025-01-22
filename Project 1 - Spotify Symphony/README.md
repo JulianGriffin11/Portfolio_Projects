@@ -23,7 +23,7 @@ Welcome to *Spotify Symphony*! This project explores the secrets of the Spotify 
   
 ---
 
-### 🔍 **Analysis Questions**
+### 🔍 **Questions to Analyze**
 - How do attributes like song Tempo and Danceability impact song Popularity?  
 - What key factors should artists and producers focus on to improve their chances of chart success?
 
