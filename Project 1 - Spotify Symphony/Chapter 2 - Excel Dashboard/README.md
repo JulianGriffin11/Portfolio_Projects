@@ -1,4 +1,4 @@
-# 🎧 **Spotify Symphony: Unveiling the Spotify Algorithm Secrets** 🎧
+# 🎧 **Spotify Symphony: Dashboard Analysis of Song Attributes** 🎧
 
 <img src="../../Media/SS_E_Dashboard.gif" alt="Spotify Banner" width="85%" />
 
