@@ -30,7 +30,13 @@ In this project, we set out to uncover what makes a song popular on Spotify. By 
 
 ## 🔍 **2. Methodology**
 
-The project uses a combination of **Excel** for data visualization and **R** for statistical analysis. I employed linear regression to analyze the relationship between song attributes and their popularity score. Pivot tables and dynamic dashboards were used in Excel to further explore trends across different attributes and their correlation to popularity.
+The project uses a combination of **Excel** 📊 for data visualization and **R** 🧮 for statistical analysis.   
+
+1️⃣ In **Chapter 1**, the goal was to statistically model and interpret the key factors influencing song popularity. Here, I employed **R** to apply linear regression and further refine the linear model. To check my work I addressed issues like multicollinearity, assumption violations, and outliers, aiming to capture the key factors driving song popularity.
+
+2️⃣ In **Chapter 2**, the goal was to visually present trends and patterns in an accessible and user-friendly format. Here, I created an interactive **Excel Dashboard** that allowed users to intuitively and seamlessly access the data. Using features like slicers, conditional formatting, and pivot tables, the dashboard enabled an in-depth exploration of how different attributes correlated with song success. 
+
+Both served as compliments to reveal the algorithm's secrets.
 
 ---
 
