@@ -82,4 +82,16 @@ This project reinforced the importance of continuous exploration and adaptation 
 
 ---
 
-[📂 Access the full project here](Spotify%20Symphony%20Project)
+### 📂 Access the Project  
+ 
+Click [here](../) to return to the table of contents.
+
+---
+
+- Check out some of my other work:
+  - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)
+  - [🌺 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
+  - [👑 R Projects](https://github.com/JulianGriffin11/R_Projects) 
+
+Kind Regards,  
+**Julian Griffin**
