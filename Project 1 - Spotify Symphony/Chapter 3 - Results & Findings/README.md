@@ -46,15 +46,15 @@ Both served as compliments to reveal the algorithm's secrets.
 - The **linear regression model** explained only 0.5% of the variability in Popularity, highlighting the complexity of predicting song success.
 - **Pivot tables** in Excel revealed that Danceability scores between 0.6 and 0.8 had the highest median popularity.
 
-*Visuals can be added here (charts, graphs, etc.)*
+<img src="../../Media/SS_E_Pivot.gif" alt="Pivot Table Example" width="60%" />
 
 ---
 
 ## 🎤 **4. Insights for Artists & Producers**
 
-- **Danceability** emerged as a key factor in popularity, suggesting that making a song "danceable" could increase its chances of success.
-- **Energy** and **Tempo** were also found to influence popularity, though not as significantly.
-- Producers should consider these factors when crafting songs targeted at different listener moods or genres.
+**Danceability** emerged as a key factor influencing song popularity, indicating that songs with higher danceability tend to be more successful. While **Energy** and **Tempo** also played a role in popularity, their influence was less pronounced compared to danceability.   
+
+My Advice for Artists: Producers should first focus on crafting songs that resonate with specific listener moods or genres. Once that foundation is set, the next priority should be to enhance the danceability of the track, as this factor has a strong correlation with popularity. While other song attributes do show some relationship with popularity, the impact isn't substantial enough to warrant a major shift in musical direction. So, honing in on danceability could be the key to increasing a song's success.
 
 ---
 
