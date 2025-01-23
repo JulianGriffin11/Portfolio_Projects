@@ -1,13 +1,14 @@
 # 🎶 **Spotify Symphony: Final Project Report** 🎶
 
-<img src="../../Media/SS_M_Spotify1.webP" alt="Spotify Image" width="60%" />
-
 ## 📄 **Foundation**
 
 **Title**: Spotify Symphony: Unlocking the Secrets of the Spotify Song Algorithm   
 **By**: Julian Griffin  
 **Date**: January 2025  
 **Data Set Provided By**: Kelly Ramsay
+
+<img src="../../Media/SS_M_Spotify1.webp" alt="Spotify Image" width="70%" />
+
 
 *This report explores the relationship between song attributes and their popularity on Spotify, using both statistical analysis and interactive dashboards to uncover insights on what drives track success.*
 
