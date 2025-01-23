@@ -45,59 +45,61 @@ The dataset includes information on Spotify song attributes and their popularity
 
 <br>
 
-<img src="../../Media/SS_E_Dashboard.png" alt="Song Data Overview" width="55%" />
-
 ---
 
-## Analysis Highlights  
+## 🎶 Analysis Highlights  
 
-### 1️⃣ **What is the relationship between each song attribute and Popularity?**  
+### 1️⃣ **What is the relationship between song attributes and Popularity?**  
 
 #### 📊 Methodology  
-- Visualized relationships using the **Excel Dashboard**, focusing on each covariate's correlation with Popularity.  
-- Applied conditional formatting and slicers for more intuitive visual interpretation.  
+- Built an **interactive Excel Dashboard** to uncover correlations between each song attribute and Popularity.  
+- Incorporated **conditional formatting** and **dynamic slicers** for a visually engaging and intuitive analysis.  
 
 #### 💡 Insights  
-- Danceability and Energy showed a moderate positive correlation with Popularity.  
-- Songs with higher Acousticness and lower Energy appeared less popular on average.
+- **Danceability** and **Energy** showed a clear positive correlation with Popularity, making them key drivers of success.  
+- **Duration_ms** exhibited the highest variation and data skewness, likely due to its millisecond scale, which could mask broader trends.
 
 <br> 
 
-<img src="../Media/SS_Excel_Visual.png" alt="Song Attributes vs Popularity" width="70%" />  
+<img src="../../Media/SS_E_Dashboard.gif" alt="Spotify Dashboard Visual" width="65%" />
 
 ---
 
-### 2️⃣ **How well does the linear model predict song Popularity?**  
+### 2️⃣ **How well does the linear model predict Popularity?**  
 
 #### 📈 Methodology  
-- Interpreted the results from the linear model in **R** to understand how the model predicts song Popularity.  
-- Linked key R findings with Excel visuals for a seamless analysis experience.
+- Analyzed the output of the **linear regression model in R** to understand its predictive accuracy.  
+- Derived and showcased the formula used to estimate Popularity based on song attributes.  
 
 #### 💡 Insights  
-- The linear model accounted for about 75% of the variance in Popularity.  
-- Energy and Danceability were the most significant predictors of Popularity in the model.
+- The model explained approximately **4% of the variance in Popularity**, revealing an machine learning model may be more effective.  
+- **Prediction Formula**:  
+   - **Popularity** = 44.93 - 0.0000045 **(Duration_ms)** + 2.79 **(Danceability)** - 4.12 **(Energy)** - 11.15 **(Instrumentalness)** - 5.48 **(Liveness)** - 0.0082 **(Tempo)**.
 
-<img src="../Media/SS_Excel_Model_Results.png" alt="Linear Model Results" width="75%" />  
+<img src="../../Media/SS_E_Data.png" alt="Linear Model Results" width="75%" />  
 
 ---
 
 ### 3️⃣ **Does higher Danceability always lead to higher Popularity?**  
 
 #### 🔍 Methodology  
-- Used **Pivot Tables** to explore how different ranges of Danceability correlate with Popularity.  
-- Visualized trends using dynamic charts based on Danceability scores and Popularity levels.
+- Leveraged **Pivot Tables** to analyze how different ranges of Danceability correspond to Popularity.  
+- Connected the pivot table to a **dynamic chart** to identify key trends and exceptions visually.  
 
 #### 💡 Insights  
-- Songs with Danceability between 0.6 and 0.8 had the highest median popularity scores.  
-- Danceability wasn’t always a reliable predictor; other factors like Tempo and Energy played a role.
+- Tracks with **Danceability scores between 0.6 and 0.8** had the highest median Popularity, making this the sweet spot for hits.  
+- Songs with either **extremely low** or **very high Danceability** tended to have lower Popularity, indicating that balance is key.  
 
-<img src="../Media/SS_Excel_Danceability.png" alt="Danceability Analysis" width="60%" />
+<img src="../../Media/SS_E_Pivot.gif" alt="Danceability Pivot Chart" width="60%" />
 
 ---
 
-## Conclusion  
 
-The **Spotify Symphony** Excel dashboard offers insightful visualizations that help uncover the key relationships between song attributes and Popularity. By combining **Pivot Tables**, **Conditional Formatting**, and dynamic **Dashboards**, we gain a clear understanding of the factors that drive Spotify song success. This analysis opens doors for more refined prediction models and actionable recommendations for producers and artists.
+## 🎓 Conclusion  
+
+---
+
+The **Spotify Symphony** project taught me how powerful **Excel dashboards** can be for uncovering key relationships between variables. By leveraging **Pivot Tables**, **Conditional Formatting**, and **dynamic visualizations**, I gained a deeper understanding of what drives Spotify song success. This hands-on experience showed me the potential for using data analysis and statistics to create more accurate prediction models and provide actionable insights for producers and artists.
 
 ---
 
