@@ -1,5 +1,7 @@
 # 🎶 **Spotify Symphony: Final Project Report** 🎶
 
+<img src="../../Media/SS_M_Spotify1.webP" alt="Spotify Image" width="60%" />
+
 ## 📄 **Foundation**
 
 **Title**: Spotify Symphony: Unlocking the Secrets of the Spotify Song Algorithm   
