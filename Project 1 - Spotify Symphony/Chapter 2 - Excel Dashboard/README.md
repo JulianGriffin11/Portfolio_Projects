@@ -19,9 +19,9 @@
 
 ## Excel Skills Used  
 
-- **📊 Dashboard Creation**
-- **📌 Pivot Tables**  
-- **🔄 Conditional Formatting**  
+- **🌐 Dashboard Creation**
+- **🕹️ Pivot Tables**  
+- **🧬 Conditional Formatting**  
 - **🔍 Data Filtering**  
 - **💡 Data Visualization**  
 
@@ -29,17 +29,23 @@
 
 ## Data Overview  
 
-The dataset includes information on Spotify song attributes and popularity, such as:
+The dataset includes information on Spotify song attributes and their popularity, such as:  
 
-- **🎶 Danceability**: A measure of how suitable a song is for dancing.  
-- **⚡ Energy**: The intensity and activity level of the track.  
-- **🎵 Tempo**: The beats per minute (BPM) of the song.  
-- **📊 Popularity**: A popularity score based on various factors.  
-- **🔊 Acousticness & Instrumentalness**: Measures of the song’s acoustic nature and instrumental quality.  
+
+| **Variable**        | **Description**                                                                                   |
+|----------------------|---------------------------------------------------------------------------------------------------|
+| **📊 Popularity**       | How well a track is received, based on **streaming counts** and **social media buzz**.       |
+| **⏱️ Duration_ms**      | The total **length of the track** in milliseconds—how long the song plays.                     |
+| **💃 Danceability**     | Reflects how **danceable** a track is, based on tempo, rhythm, and beat stability.            |
+| **⚡ Energy**           | Measures the **intensity** and activity level of a track—higher energy means more excitement! |
+| **🎸 Acousticness**     | Shows how **acoustic** (non-electronic) a track is—perfect for those chill acoustic vibes.     |
+| **🎹 Instrumentalness** | Predicts the likelihood of a track being **instrumental** (no vocals included).               |
+| **🎤 Liveness**         | Indicates whether a track feels like a **live performance**, based on audience presence.      |
+| **🎵 Tempo**            | The **speed** of the track in **beats per minute (BPM)**—is it fast, slow, or in between?     |
 
 <br>
 
-<img src="../Media/SS_Excel_Dashboard.png" alt="Song Data Overview" width="55%" />
+<img src="../../Media/SS_E_Dashboard.png" alt="Song Data Overview" width="55%" />
 
 ---
 
