@@ -96,15 +96,15 @@ cat("High-leverage observations:", high_leverage * 100, "%\n")
 
 ---
 
-### **Conclusion**  
- 
-🎵 Turns out, **danceability** emerged as the MVP of song popularity, while **energy, acousticness, and instrumentalness** brought the vibe down. Despite refining the model and addressing issues like multicollinearity and zero-popularity songs, it explained only 0.5% of variability. But hey, progress is progress. We tackled multicollinearity, fixed assumption violations, and checked outlier affects. Overall, a sucessful project!
+### 🎓 **Conclusion**  
+
+🎵 It turns out, **danceability** stole the show as the key driver of song Popularity, while **energy, acousticness, and instrumentalness** tended to bring the vibe down. Despite refining the model, tackling multicollinearity, addressing assumption violations, and examining outlier effects, the model explained only 0.5% of variability. Progress may be incremental, but it’s still progress. Overall, this was a successful deep dive into the math behind the music! 🎶📈  
 
 ---
 
-### **Future Recommendations**
+### ⚠️ **Future Recommendations**
 
-⚠️ Even with all the tweaks and fixes, there’s still a ton of variability in popularity that the model couldn’t explain.
+ Even with all the tweaks and fixes, there’s still a ton of variability in popularity that the model couldn’t explain.
 
    - 🚀 To point us in the right direction I recommend the following moving forward:
 
@@ -122,9 +122,10 @@ Click [here](../) to return to the table of contents.
 
 ---
 
-- Check out some of my other work:  
-  - [📊 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
+- Check out some of my other work:
   - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)
+  - [🌺 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
+  - [👑 R Projects](https://github.com/JulianGriffin11/R_Projects) 
 
 Sincerely,  
 Julian
