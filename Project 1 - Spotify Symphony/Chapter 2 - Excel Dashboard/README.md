@@ -105,7 +105,7 @@ The **Spotify Symphony** project taught me how powerful **Excel dashboards** can
 
 ### 📂 Access the Project  
 
-Click [here](./Chapter%202%20-%20Excel%20Dashboard) to explore the **Spotify Symphony: Excel Dashboard** in more detail.  
+Click [here](./Chapter%202%20-%20Excel%20Dashboard) to explore the **Excel Dashboard** in more detail.  
 Click [here](../) to return to the table of contents.
 
 ---
