@@ -43,6 +43,7 @@ Welcome to *Spotify Symphony*! In this project, I uncover the secrets behind Spo
 ### 🚀 **Access the Project**
 - [R Analysis](./Chapter%201%20-%20R%20Analysis)
 - [Excel Dashboard](./Chapter%202%20-%20Excel%20Dashboard)
+- [Results & Findings](./Chapter%203%20-%20Results%20&%20Findings)
 - [Return to Projects](../)
 
 ---
