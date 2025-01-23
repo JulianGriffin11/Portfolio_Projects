@@ -4,13 +4,13 @@
 
 ---
 
-## 🎬 **Introduction**  
+## 🎬 **Background**  
 Welcome to *Spotify Symphony*! In this project, I uncover the secrets behind Spotify’s algorithm by exploring how song attributes impact their Popularity. Using a mix of **Excel** and **R**, I build a linear regression model to analyze factors like **Danceability**, **Tempo**, and **Energy**, providing valuable insights into what makes a track successful. This project blends statistical analysis, data visualization, and practical insights in a fascinating way.
 
 ---
 
 ## 📚 **Table of Contents**
-1. [**Chapter 1: R-Analysis**](./Chapter%201%20-%20R%20Analysis)
+1. [**Chapter 1: R Analysis**](./Chapter%201%20-%20R%20Analysis)
    - **Building the Linear Regression Model**: Uncovering the factors that influence song Popularity.  
    - **Assumption Validation & Diagnostics**: Visual insights through detailed diagnostic plots.  
    - **Data Set**: `spotify_data.csv`
@@ -37,7 +37,7 @@ Welcome to *Spotify Symphony*! In this project, I uncover the secrets behind Spo
 ---
 
 ### 🚀 **Access the Project**
-- [R Analysis Code](./Chapter%201%20-%20R%20Analysis)
+- [R Analysis](./Chapter%201%20-%20R%20Analysis)
 - [Excel Dashboard](./Chapter%202%20-%20Excel%20Dashboard)
 - [Return to Projects](../)
 
