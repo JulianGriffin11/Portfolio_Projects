@@ -1,10 +1,11 @@
-# 🎶 **Spotify Symphony Report** 🎶
+# 🎶 **Spotify Symphony: Final Project Report** 🎶
 
-## 📄 **Cover Page**
+## 📄 **Foundation**
 
-**Title**: Spotify Symphony: Unlocking the Secrets of Song Popularity  
+**Title**: Spotify Symphony: Unlocking the Secrets of the Spotify Song Algorithm   
 **By**: Julian Griffin  
 **Date**: January 2025  
+**Data Set Provided By**: Kelly Ramsay
 
 *This report explores the relationship between song attributes and their popularity on Spotify, using both statistical analysis and interactive dashboards to uncover insights on what drives track success.*
 
