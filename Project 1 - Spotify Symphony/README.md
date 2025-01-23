@@ -20,7 +20,7 @@ Welcome to *Spotify Symphony*! In this project, I uncover the secrets behind Spo
    - **Dynamic Visualizations**: Interactive charts and fields to reveal valuable trends.  
    - **Pivot Table Insights**: Unpacking specific impact of Danceability on song Popularity.
 
-3. [**Chapter 3: Results & Findings**](./Chapter%203%20-%20Results%20Findings)
+3. [**Chapter 3: Results & Findings**](./Chapter%203%20-%20Results%20&%20Findings)
    - **Deep Dive into Key Covariates**: Analyzing Danceability, Energy, Acousticness, and more!  
    - **Dynamic Visualizations**: Interactive charts and fields to reveal valuable trends.  
    - **Pivot Table Insights**: Unpacking specific impact of Danceability on song Popularity.
