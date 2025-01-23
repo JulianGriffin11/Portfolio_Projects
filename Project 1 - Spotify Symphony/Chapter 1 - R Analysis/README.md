@@ -3,7 +3,8 @@
 <img src="../../Media/SS_R_Run.gif" alt="Visual of Code" width="70%" />
 
 ## 🚀 **Introduction**  
-So, here's the deal: I was given a dataset of Spotify songs, and instead of just running some basic analysis, I decided to turn it into my own little musical adventure. The question I started with? What actually makes a song popular on Spotify? Through Formidable Formulas, Nebulous Numbers, and Enigmatic Equations I embarked on a mathmatical journey into understanding what makes songs tick — and maybe, just maybe, uncover some of the magic behind the Spotify algorithm.
+**Spotify Symphony** dives deep into the **analytical heart** of the project by leveraging the power of **R programming**. This section explores the dataset through **linear regression models**, **statistical insights**, and **assumption testing**, uncovering the mathematical backbone of song Popularity. By analyzing attributes like **Danceability**, **Energy**, and **Instrumentalness**, this portion brings a scientific perspective to the artistry of music. 🎼🧪  
+
 
 ---
 
