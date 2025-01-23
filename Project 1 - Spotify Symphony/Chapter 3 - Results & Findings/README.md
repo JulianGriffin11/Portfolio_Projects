@@ -59,7 +59,7 @@ Both served as compliments to reveal the algorithm's secrets.
 
 ---
 
-## ⛵� **5. Interpretation of Results**
+## ⛵**5. Interpretation of Results**
 
 While the linear regression model did not explain a large percentage of the variability in popularity, it still provided valuable insights into the relative importance of each attribute. The limited predictive power of the model indicates that there are other, unknown factors influencing popularity. 
 
