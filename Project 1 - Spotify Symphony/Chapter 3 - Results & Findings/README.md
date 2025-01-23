@@ -24,7 +24,7 @@
 
 ## 📚 **1. Introduction**
 
-In this project, we set out to uncover what makes a song popular on Spotify. By analyzing key song attributes such as **Danceability**, **Energy**, and **Tempo**, I built a linear regression model in **R** to explore how these factors contribute to a song’s success. Along with an interactive **Excel dashboard**, this report aims to provide actionable insights for producers and artists.
+In this project, we set out to uncover what makes a song popular on Spotify. By analyzing key song attributes such as **Danceability**, **Energy**, and **Tempo**, I built a linear regression model in **R** to explore how these factors contribute to a song’s success. Along with an interactive **Excel dashboard**, this report aims to bring everything together and provide actionable insights for producers and artists.
 
 ---
 
