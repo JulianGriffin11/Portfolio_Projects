@@ -13,12 +13,13 @@
 
 ## 📑 **Table of Contents**
 
-1. [Introduction](#introduction)
-2. [Methodology](#methodology)
-3. [Key Findings](#key-findings)
-4. [Insights for Artists & Producers](#insights-for-artists--producers)
-5. [Interpretation of Results](#interpretation-of-results)
-6. [Conclusions](#conclusions)
+1. [Introduction](#1-introduction)
+2. [Methodology](#2-methodology)
+3. [Key Findings](#3-key-findings)
+4. [Insights for Artists & Producers](#4-insights-for-artists--producers)
+5. [Interpretation of Results](#5-interpretation-of-results)
+6. [What I Learned](#6-what-i-learned)
+
 
 ---
 
