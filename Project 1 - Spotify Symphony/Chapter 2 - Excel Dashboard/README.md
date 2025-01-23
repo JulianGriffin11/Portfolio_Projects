@@ -2,14 +2,14 @@
 
 <img src="../../Media/SS_E_Dashboard.gif" alt="Spotify Dashboard Visual" width="85%" />
 
-## Introduction  
+## 🚀 Introduction  
 
 **Spotify Symphony** embarks on an exciting journey to **decode** the relationship between song attributes and their **popularity**. Leveraging the power of an interactive **Excel Dashboard**, this part of the project **dazzles** with visually compelling insights into key covariates like **Danceability**, **Energy**, and **Tempo**. Watch the story unfold through **interactive visualizations**, **pivot tables**, and more! 🎶📊
 
 
 ---
 
-## Questions to Analyze  
+## 📌 Questions to Analyze  
 
 1. **What is the relationship between each song attribute and Popularity?**
 2. **How well does the linear model predict song Popularity?**
@@ -20,10 +20,10 @@
 ## Excel Skills Used  
 
 - **🌐 Dashboard Creation**
-- **🕹️ Pivot Tables**  
-- **🧬 Conditional Formatting**  
+- **🧬 Pivot Tables**  
+- **🕹️Conditional Formatting**  
 - **🔍 Data Filtering**  
-- **💡 Data Visualization**  
+- **📲 Data Visualization**  
 
 ---
 
@@ -105,13 +105,15 @@ The **Spotify Symphony** project taught me how powerful **Excel dashboards** can
 
 ### 📂 Access the Project  
 
-Click [here](./Chapter%202%20-%20Excel%20Dashboard) to explore the **Spotify Symphony: Excel Dashboard** in more detail.
+Click [here](./Chapter%202%20-%20Excel%20Dashboard) to explore the **Spotify Symphony: Excel Dashboard** in more detail.  
+Click [here](../) to return to the table of contents.
 
 ---
 
-- Check out some of my other work:  
-  - [📊 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
-  - [📘 R Projects](https://github.com/JulianGriffin11/R_Projects)
+- Check out some of my other work:
+  - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)
+  - [🌺 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
+  - [👑 R Projects](https://github.com/JulianGriffin11/R_Projects) 
 
 Kind Regards,  
 **Julian Griffin**
