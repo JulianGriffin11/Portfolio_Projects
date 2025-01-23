@@ -97,8 +97,6 @@ The dataset includes information on Spotify song attributes and their popularity
 
 ## 🎓 Conclusion  
 
----
-
 The **Spotify Symphony** project taught me how powerful **Excel dashboards** can be for uncovering key relationships between variables. By leveraging **Pivot Tables**, **Conditional Formatting**, and **dynamic visualizations**, I gained a deeper understanding of what drives Spotify song success. This hands-on experience showed me the potential for using data analysis and statistics to create more accurate prediction models and provide actionable insights for producers and artists.
 
 ---
