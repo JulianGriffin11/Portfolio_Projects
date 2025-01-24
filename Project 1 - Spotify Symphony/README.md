@@ -22,7 +22,7 @@ Using **SQL** to uncover insights from raw data and **Excel** to craft dynamic v
 2. [**Chapter 2: SQL Analysis**](./Chapter%201%20-%20SQL%20Analysis)  
    - **Querying the Dataset**: Extracting insights about salary distributions by role and location.  
    - **Skills Breakdown**: Identifying the impact of skills like Python, SQL, and R on salaries.  
-   - **Data Set**: `salary_data.sql` 
+   - **Data Manipulation**: Using JOIN's, Subqueries, and  
 ---  
 
 ### 🔍 **Questions to Analyze**  
