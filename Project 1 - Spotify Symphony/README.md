@@ -12,16 +12,15 @@ This project integrates data querying, visualization, and analysis to shed light
 ---  
 
 ## 📚 **Table of Contents**  
-1. [**Chapter 1: SQL Analysis**](./Chapter%201%20-%20SQL%20Analysis)  
-   - **Querying the Dataset**: Extracting insights about salary distributions by role and location.  
-   - **Skills Breakdown**: Identifying the impact of skills like Python, SQL, and R on salaries.  
-   - **Data Set**: `salary_data.sql`  
-
-2. [**Chapter 2: Excel Dashboard**](./Chapter%202%20-%20Excel%20Dashboard)  
+1. [**Chapter 2: Excel Dashboard**](./Chapter%202%20-%20Excel%20Dashboard)  
    - **Dynamic Visualizations**: Interactive charts showcasing salary patterns by region and job type.  
    - **Pivot Table Exploration**: Analyzing specific skill combinations and their salary impact.  
    - **Actionable Insights**: Recommendations for job seekers to maximize earning potential.  
 
+2. [**Chapter 1: SQL Analysis**](./Chapter%201%20-%20SQL%20Analysis)  
+   - **Querying the Dataset**: Extracting insights about salary distributions by role and location.  
+   - **Skills Breakdown**: Identifying the impact of skills like Python, SQL, and R on salaries.  
+   - **Data Set**: `salary_data.sql` 
 ---  
 
 ### 🔍 **Questions to Analyze**  
