@@ -40,7 +40,7 @@ The dataset consolidates information on data job postings, including:
 
 <br>
 
-<img src="../Media/PP4.png" alt="Salary Data Overview" width="55%" />
+<img src="../../Media/PP_E_Data.png" alt="Table Data Overview" width="55%" />
 
 ---
 
@@ -58,7 +58,7 @@ The dataset consolidates information on data job postings, including:
 
 <br> 
 
-<img src="../Media/PP1.gif" alt="Salary by Job Title and Location" width="70%" />  
+<img src="../../Media/PP_E_Dashboard.gif" alt="Salary by Job Title and Location" width="70%" />  
 
 ---
 
@@ -72,7 +72,7 @@ The dataset consolidates information on data job postings, including:
 - Engineering roles and senior roles share about the same average yearly salary.
 - **Data Analysts** roles remained popular, though with an average salary of $85,000/year.  
 
-<img src="../Media/PP2.gif" alt="Average Salaries by Role" width="75%" />  
+<img src="../../Media/PP_E_Pivot1.gif" alt="Pivot Table Gif" width="75%" />  
 
 ---
 
@@ -86,7 +86,7 @@ The dataset consolidates information on data job postings, including:
 - **Indeed** and **LinkedIn** led as the top platforms for job postings in North America.  
 - Internationally, postings were more distributed across many different platforms.  
 
-<img src="../Media/PP3.png" alt="Job Postings by Role and Platform" width="60%" />
+<img src="../../Media/PP_E_Pivot2.png" alt="Job Postings by Role and Platform" width="60%" />
 
 ---
 
