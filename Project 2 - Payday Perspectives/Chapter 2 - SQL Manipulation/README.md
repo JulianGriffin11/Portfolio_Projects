@@ -30,7 +30,7 @@ This query focuses on identifying the **highest-paying Data Analyst roles** acro
 
 > *(Chart 1: Top 10 Paying Data Analyst Roles by Salary)*
 
-<img src="../../Media/JJ_Chart.png" alt="Visual of Employee Database Query" width="80%" />
+<img src="../Media/JJ_Chart.png" alt="Visual of Employee Database Query" width="80%" />
 
 
 ### 🔑 **Key Findings:**
