@@ -18,6 +18,7 @@ Here you will find my **Statistics, Data, and Financial Analytics** projects. Us
   - Pivot Table Analysis  
   - Linear Regression Analysis  
   - Data Wrangling using libraries like `ggplot2`, `lm`, `car`, etc.
+- **Important Note**: Please ensure your working directory is set when accessing the R files!
 
 <br>
 
