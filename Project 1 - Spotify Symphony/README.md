@@ -1,56 +1,59 @@
-# 💸 **Payday Perspectives: Exploring Salary Trends in Data Jobs** 💸  
+# 🎧 **Spotify Symphony: Unveiling the Spotify Algorithm Secrets** 🎧
 
-<img src="../Media/PP_E_Dashboard.gif" alt="Payday Perspectives Banner" width="85%" />  
+<img src="../Media/SS_M_Spotify.png" alt="Spotify Banner" width="85%" />
 
----  
+---
 
 ## 🎬 **Background**  
-Welcome to *Payday Perspectives*! This project was driven by my need for direction in the data job search. Here, I aim to answer the key questions: *Which skills command the highest pay in the data field? What skills are most in demand? How can you maximize your earning potential in this competitive industry?*  
+Welcome to *Spotify Symphony*! In this project, I uncover the secrets behind Spotify’s algorithm by exploring how song attributes impact their Popularity. Using a mix of **Excel** and **R**, I build a linear regression model to analyze factors like **Danceability**, **Tempo**, and **Energy**, providing valuable insights into what makes a track successful. This project blends statistical analysis, data visualization, and practical insights in a fascinating way.
 
-This journey began with inspiration from **Luke Barousse**, whose tutorial laid the groundwork for my exploration into data career opportunties. Building on his project flow, I expanded the foundational concepts, added my personal touch, and created something truly unique.  
+---
 
-Using **SQL** to uncover insights from raw data and **Excel** to craft dynamic visualizations, I developed a meticulous project with meaningful storytelling and analysis into the ever-evolving world of data careers.
+## 📚 **Table of Contents**
+1. [**Chapter 1: R Analysis**](./Chapter%201%20-%20R%20Analysis)
+   - **Building the Linear Regression Model**: Uncovering the factors that influence song Popularity.  
+   - **Assumption Validation & Diagnostics**: Visual insights through detailed diagnostic plots.  
+   - **Data Set**: `spotify_data.csv`
 
----  
+2. [**Chapter 2: Excel Dashboard**](./Chapter%202%20-%20Excel%20Dashboard)
+   - **Deep Dive into Key Covariates**: Analyzing Danceability, Energy, Acousticness, and more!  
+   - **Dynamic Visualizations**: Interactive charts and fields to reveal valuable trends.  
+   - **Pivot Table Insights**: Unpacking specific impact of Danceability on song Popularity.
 
-## 📚 **Table of Contents**  
-1. [**Chapter 1: Excel Dashboard**](./Chapter%202%20-%20Excel%20Dashboard)  
-   - **Dynamic Visualizations**: Interactive charts showcasing salary patterns by region and job type.  
-   - **Pivot Table Exploration**: Analyzing specific skill combinations and their salary impact.  
-   - **Actionable Insights**: Recommendations for job seekers to maximize earning potential.  
+3. [**Chapter 3: Results & Findings**](./Chapter%203%20-%20Results%20&%20Findings)
+   - **Regression Model Insights**: Assessing the effectiveness of the **linear regression model**.  
+   - **Provide Advice for Artists**: Offering actionable recommendations based on findings.
+   - **Highlight What I Learned**: Summarizing key takeaways, limitations, and quality.  
+  
+---
 
-2. [**Chapter 2: SQL Analysis**](./Chapter%201%20-%20SQL%20Analysis)  
-   - **Querying the Dataset**: Extracting insights about salary distributions by role and location.  
-   - **Skills Breakdown**: Identifying the impact of skills like Python, SQL, and R on salaries.  
-   - **Data Manipulation**: Using JOIN's, Subqueries, and  
----  
+### 🔍 **Questions to Analyze**
+- How do attributes like song Tempo and Danceability impact song Popularity?  
+- What key factors should artists and producers focus on to improve their chances of chart success?
 
-### 🔍 **Questions to Analyze**  
-- How do skills and experience levels affect salaries across different regions?  
-- What job roles and locations offer the highest earning potential in the data field?  
-- Which combinations of skills provide the greatest salary advantages?  
+---
 
----  
+### ⚙️ **Tools and Techniques**
+- **Excel**: Used for creating interactive Dashboards, Pivot Tables, and applying Conditional Formatting to analyze trends.  
+- **R**: A powerful tool for building the Linear Regression model, generating Diagnostic Plots, and conducting Multicollinearity Checks.  
+- **Key Libraries**: `ggplot2` (for visualizations), `lm()` (for regression modeling), `dplyr` (for data manipulation) and more!
 
-### ⚙️ **Tools and Techniques**  
-- **SQL**: Leveraged for querying, filtering, and aggregating the data to uncover meaningful trends.  
-- **Excel**: Used for creating dynamic dashboards, generating pivot tables, and visualizing salary trends.  
+---
 
----  
+### 🚀 **Access the Project**
+- [R Analysis](./Chapter%201%20-%20R%20Analysis)
+- [Excel Dashboard](./Chapter%202%20-%20Excel%20Dashboard)
+- [Results & Findings](./Chapter%203%20-%20Results%20&%20Findings)
+- [Return to Projects](../)
 
-### 🚀 **Access the Project**  
-- [SQL Analysis](./Chapter%201%20-%20SQL%20Analysis)  
-- [Excel Dashboard](./Chapter%202%20-%20Excel%20Dashboard)  
-- [Return to Portfolio](../)  
+---
 
----  
+I hope you find this project both informative and insightful!  
 
-I hope you find *Payday Perspectives* insightful and engaging!  
-
-- Explore more projects:  
-  - [🎧 Spotify Symphony](../Project%201%20-%20Spotify%20Symphony/README.md)  
+- Check out some of my other work:
   - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)  
   - [🌺 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
+  - [👑 R Projects](https://github.com/JulianGriffin11/R_Projects)  
 
-Cheers,  
-**Julian Griffin**  
+Talk soon,  
+**Julian Griffin**
