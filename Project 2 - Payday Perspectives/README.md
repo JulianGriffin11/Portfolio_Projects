@@ -1,6 +1,6 @@
-# 💼 **Payday Perspectives: Unlocking Salary Trends in Data Careers** 💼
+# 💸 **Payday Perspectives: Unlocking Salary Trends in Data Careers** 💸
 
-<img src="../Media/PP_M_Banner.png" alt="Payday Perspectives Banner" width="85%" />
+<img src="../Media/PP_M_Money.jpeg" alt="Payday Perspectives Banner" width="75%" />
 
 ---
 
