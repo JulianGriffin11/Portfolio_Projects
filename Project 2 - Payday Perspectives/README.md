@@ -15,7 +15,7 @@ Using **SQL** to uncover insights from raw data and **Excel** to craft dynamic v
 
 ## 📚 **Table of Contents**
 
-1. [**Chapter 1: Excel Dashboard**](../Chapter%201%20-%20Excel%20Dashboard)
+1. [**Chapter 1: Excel Dashboard**](./Chapter%201%20-%20Excel%20Dashboard)
    - **Dynamic Visualizations**: Salary distributions by role, experience, and location.  
    - **Pivot Tables & Conditional Formatting**: Highlighting key trends and anomalies.  
    - **Insights for Job Seekers**: Visual tools to compare earning potential across variables. 
