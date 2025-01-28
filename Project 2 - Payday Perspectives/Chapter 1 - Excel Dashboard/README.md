@@ -1,14 +1,16 @@
-# [📊 Payday Perspectives: Salary Analytics Dashboard 📊](Payday%20Perspectives.xlsx) 
+# [💰 Payday Perspectives: Salary Analytics Dashboard 💰](Payday%20Perspectives.xlsx) 
 
-<img src="../../Media/PP_E_Dashboard.gif" alt="Salary Dashboard" width="75%" />
+<img src="../../Media/PP_E_Dashboard.gif" alt="Salary Dashboard" width="85%" />
 
-## Introduction  
+## 🛠️ Introduction  
 
-**Payday Perspectives** takes a deep dive into the job market, focusing on salary trends for data professionals. By analyzing roles, locations, and salary ranges, this dashboard offers valuable insights into career prospects and earning potential in data-related fields. Think of it as your cheat sheet to navigating the world of data careers.
+*In this section, I present an Excel dashboard that provides a comprehensive analysis of data job market trends.* The interactive dashboard allows for the variation of 3 fields which enables a deeper understanding of the market patterns.  
+
+By incorporating **📊 charts**, **📑 pivot tables**, and **✨ dynamic visuals**, this section makes it easy to interpret complex data and draw actionable conclusions for this amazing project.
 
 ---
 
-## Questions to Analyze  
+## ❓ Questions to Analyze  
 
 1. **How do salary ranges vary by location, job type, and job title?**
 2. **What are the average salaries across different data job roles?**  
@@ -16,18 +18,17 @@
 
 ---
 
-## Excel Skills Used  
+## 📈 Excel Skills Used  
 
 - **🔍 Filtering and Sorting**
 - **📊 Pivot Tables**  
 - **📌 Conditional Formatting**  
 - **🔄 Data Cleaning and Validation**  
 - **🧮 Statistical Analysis**  
-  
 
 ---
 
-## Data Overview  
+## 📋 Data Overview  
 
 The dataset consolidates information on data job postings, including:
 
@@ -36,7 +37,6 @@ The dataset consolidates information on data job postings, including:
 - **💼 Job Platforms**: Sources like **Indeed**, ZipRecruiter, etc. 
 - **🌍 Location**: Specific countries where jobs are posted.  
 - **💰 Salary Details**: Yearly and hourly **rates** for posted roles.  
-  
 
 <br>
 
@@ -44,7 +44,7 @@ The dataset consolidates information on data job postings, including:
 
 ---
 
-## Analysis Highlights  
+## 📊 Analysis Highlights  
 
 ### 1️⃣ **How do salary ranges vary by location, job type, and job title?**  
 
@@ -54,7 +54,7 @@ The dataset consolidates information on data job postings, including:
 
 #### 💡 Insights  
 - In Canada through the sites searched, the median salary for Data Analysts (full-time) is just under $100,000/year.  
-- Machine Learning Enginner showed the highest median salary in Canada compared to the other Data roles.  
+- Machine Learning Engineer showed the highest median salary in Canada compared to the other Data roles.  
 
 <br> 
 
@@ -90,22 +90,25 @@ The dataset consolidates information on data job postings, including:
 
 ---
 
-## Conclusion  
+## ✅ Conclusion  
 
-The **Payday Perspectives** dashboard sheds light on the rapidly growing data job market. Through analyzing salary trends and job availability, this project made clear the salaries for job given certain parameters. These insights helped me make informed decisions and stay ahead in this crazy data-driven world.
+The **Payday Perspectives** dashboard highlights the intersection of data visualization and market analysis, bringing clarity to the complexities of salary trends in the data industry. From identifying lucrative roles like Machine Learning Engineer to analyzing platforms with the most job opportunities, this project serves as a resource for informed decision-making in career planning.  
+
+With insights into location-specific salaries, job type preferences, and average pay scales, this dashboard demonstrates how data analysis can empower individuals to navigate the job market with confidence and precision.  
 
 ---
 
 ### 📂 Access the Project  
 
 Click [here](Payday%20Perspectives.xlsx) to explore the **Payday Perspectives** spreadsheet in more detail. (Note: the workbook is protected to maintain data integrity.)
+Click [here](../) to return to the table of contents.
 
 ---
 
-- Check out some of my other work:  
-  - [📊 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
-  - [📘 R Projects](https://github.com/JulianGriffin11/R_Projects)
+- Check out some of my other work:
+  - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)
+  - [🌺 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
+  - [👑 R Projects](https://github.com/JulianGriffin11/R_Projects) 
 
 Kind Regards,  
 Julian
-
