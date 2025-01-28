@@ -1,4 +1,4 @@
-# [📊 Payday Perspectives: Salary Analytics Dashboard 📊](Payday%20Perspectives.xlsx) 
+# [💰 Payday Perspectives: Salary Analytics Dashboard 💰](Payday%20Perspectives.xlsx) 
 
 <img src="../../Media/PP_E_Dashboard.gif" alt="Salary Dashboard" width="75%" />
 
