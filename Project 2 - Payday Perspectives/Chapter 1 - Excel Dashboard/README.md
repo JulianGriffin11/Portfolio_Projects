@@ -1,6 +1,6 @@
 # [💰 Payday Perspectives: Salary Analytics Dashboard 💰](Payday%20Perspectives.xlsx) 
 
-<img src="../../Media/PP_E_Dashboard.gif" alt="Salary Dashboard" width="75%" />
+<img src="../../Media/PP_E_Dashboard.gif" alt="Salary Dashboard" width="85%" />
 
 ## 🛠️ Introduction  
 
@@ -101,12 +101,14 @@ With insights into location-specific salaries, job type preferences, and average
 ### 📂 Access the Project  
 
 Click [here](Payday%20Perspectives.xlsx) to explore the **Payday Perspectives** spreadsheet in more detail. (Note: the workbook is protected to maintain data integrity.)
+Click [here](../) to return to the table of contents.
 
 ---
 
-- Check out some of my other work:  
-  - [📊 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
-  - [📘 R Projects](https://github.com/JulianGriffin11/R_Projects)
+- Check out some of my other work:
+  - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)
+  - [🌺 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
+  - [👑 R Projects](https://github.com/JulianGriffin11/R_Projects) 
 
 Kind Regards,  
 Julian
