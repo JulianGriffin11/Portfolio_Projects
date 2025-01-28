@@ -207,5 +207,7 @@ I will achieve through the use of visualization tools like Excel. Stay tuned!
 ### 🔗 **Explore the Queries**
 For full SQL code, detailed comments, and execution steps, click the header links or check the respective query files in this directory!
 
+Click [here](../) to return to the table of contents.
+
 Yours in Solutions,  
 Julian
