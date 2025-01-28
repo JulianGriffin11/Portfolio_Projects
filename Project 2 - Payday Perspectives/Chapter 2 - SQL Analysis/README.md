@@ -1,5 +1,8 @@
 # 🛠️ **SQL Queries and Analysis for Data Analyst Jobs**
 
+<img src="../../Media/PP_S_SQL3.jpeg" alt="Visual of SQL" width="80%" />
+
+
 ---
 
 ## 🚀 **Foreword**
@@ -30,7 +33,7 @@ This query focuses on identifying the **highest-paying Data Analyst roles** acro
 
 > *(Chart 1: Top 10 Paying Data Analyst Roles by Salary)*
 
-<img src="../Media/JJ_Chart.png" alt="Visual of Employee Database Query" width="80%" />
+<img src="../../Media/PP_S_Chart.png" alt="Visual of Employee Database Query" width="80%" />
 
 
 ### 🔑 **Key Findings:**
@@ -185,7 +188,7 @@ This query combines both **demand and salary data** to uncover the skills that o
 ---
 
 ### 💻 **What I learned:**
-In conclusion, **Python** stands out as the skill commanding the highest average salary while, **SQL** and **Excel** offer the most reliable opportunities across the Data Analytics job market. This tells me that not only is database manipulation important, but also the ability to visualize the results.
+To conclude this section, I learned that **Python** stands out as the skill commanding the highest average salary while, **SQL** and **Excel** offer the most reliable opportunities across the Data Analytics job market. This tells me that not only is database manipulation important, but also the ability to visualize the results.
 
 **Ultimately, I learned that SQL, Excel, and Python are the most important skills for maximizing my career potential.**
 
