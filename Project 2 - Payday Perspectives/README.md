@@ -20,7 +20,7 @@ Using **SQL** to uncover insights from raw data and **Excel** to craft dynamic v
    - **Pivot Tables & Conditional Formatting**: Highlighting key trends and anomalies.  
    - **Insights for Job Seekers**: Visual tools to compare earning potential across variables. 
 
-2. [**Chapter 2: SQL Analysis**](./Chapter%201%20-%20SQL%20Analysis)
+2. [**Chapter 2: SQL Analysis**](./Chapter%202%20-%20SQL%20Analysis)
    - **Data Querying**: Extracting meaningful insights from raw salary data.  
    - **Exploring Trends**: Uncovering patterns by **location**, **skills**, and **experience levels**.  
    - **Data Manipulation**: Using JOIN's, Subqueries, and Aggregation to query the data.
