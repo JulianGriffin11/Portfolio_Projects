@@ -4,7 +4,7 @@ Welcome to my **Portfolio Projects** repository! 🌍
 
 Here you will find my **Statistics, Data, and Financial Analytics** projects. Use the **heading links** to dive into each project!
 
-<img src="./Media/Main_Banner.jpg" alt="Projects Banner" width="600"/>
+<img src="./Media/Main_Banner.jpg" alt="Projects Banner" width="700"/>
 
 ---
 
@@ -22,7 +22,7 @@ Here you will find my **Statistics, Data, and Financial Analytics** projects. Us
 
 <br>
 
-<img src="./Media/SS_E_Dashboard.gif" alt="Visual of Dashboard" width="60%" />
+<img src="./Media/SS_E_Dashboard.gif" alt="Visual of Dashboard" width="70%" />
 
 ---
 
@@ -38,7 +38,7 @@ Here you will find my **Statistics, Data, and Financial Analytics** projects. Us
 
 <br>
 
-<img src="./Media/PP_E_Dashboard.gif" alt="Visual of Dashboard" width="60%" />
+<img src="./Media/PP_E_Dashboard.gif" alt="Visual of Dashboard" width="70%" />
 
 ### Notes: 
 - For each project, you may need to download the necessary data files (like `spotify_data.csv`) and run them on your local system.
