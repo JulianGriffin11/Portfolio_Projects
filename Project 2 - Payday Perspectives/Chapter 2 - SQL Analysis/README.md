@@ -1,9 +1,6 @@
-# 🛠️ **SQL Queries and Analysis for Data Analyst Jobs**
+# 💲 **Payday Perspectives: SQL Queries and Analysis** 💲
 
-<img src="../../Media/PP_S_SQL3.jpeg" alt="Visual of SQL" width="80%" />
-
-
----
+<img src="../../Media/PP_S_SQL1.jpeg" alt="Visual of SQL" width="80%" />
 
 ## 🚀 **Foreword**
 
