@@ -194,16 +194,6 @@ To conclude this section, I learned that **Python** stands out as the skill comm
 
 ---
 
-### 📝 **Next Steps**
-Towards improving the project:
-- Create visualizations generated from query outputs.
-- Incorporate interactive charts or dashboards for easy access of information.
-- Expand analysis to include geographical trends.
-
-I will achieve through the use of visualization tools like Excel. Stay tuned!
-
----
-
 ### 🔗 **Explore the Queries**
 For full SQL code, detailed comments, and execution steps, click the header links or check the respective query files in this directory!
 
