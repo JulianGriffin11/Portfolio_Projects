@@ -11,22 +11,22 @@ Welcome to *Spotify Symphony*! In this project, I uncover the secrets behind Spo
 
 ### 🔍 **Questions to Analyze**
 - How do attributes like song Tempo and Danceability impact song Popularity?  
-- What key factors should artists and producers focus on to improve their chances of chart success
+- What key factors should artists and producers focus on to improve their chances of chart success?
 
 ---
 
 ## 📚 **Table of Contents**
 1. [**Chapter 1: R Analysis**](./Chapter%201%20-%20R%20Analysis)
-   - Building the Linear Regression Model
-   - Assumption Validation & Diagnostics
+   - Linear Regression Model
+   - Assumption Validation
 
 2. [**Chapter 2: Excel Dashboard**](./Chapter%202%20-%20Excel%20Dashboard) 
    - Dynamic Visualizations
-   - Pivot Table Insights
+   - Pivot Tables
 
 3. [**Chapter 3: Results & Findings**](./Chapter%203%20-%20Results%20&%20Findings) 
-   - Provide Advice for Artists
-   - Highlight What I Learned 
+   - Advice for Artists
+   - What I Learned 
 
 ---
 
@@ -46,11 +46,6 @@ Welcome to *Spotify Symphony*! In this project, I uncover the secrets behind Spo
 ---
 
 I hope you find this project both informative and insightful!  
-
-- Check out some of my other work:
-  - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)  
-  - [🌺 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
-  - [👑 R Projects](https://github.com/JulianGriffin11/R_Projects)  
 
 Talk soon,  
 **Julian Griffin**
