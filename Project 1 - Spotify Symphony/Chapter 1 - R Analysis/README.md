@@ -3,8 +3,7 @@
 <img src="../../Media/SS_R_Run.gif" alt="Visual of Code" width="70%" />
 
 ## 🚀 **Introduction**  
-**Spotify Symphony** dives deep into the **analytical heart** of the project by leveraging the power of **R programming**. This section explores the dataset through **linear regression models**, **statistical insights**, and **assumption testing**, uncovering the mathematical backbone of song Popularity. By analyzing attributes like **Danceability**, **Energy**, and **Instrumentalness**, this portion brings a scientific perspective to the artistry of music. 🎼🧪  
-
+This section explores the dataset through **linear regression models**, **statistical insights**, and **assumption testing**, uncovering the mathematical backbone of song Popularity. By coding the line of best fit, we are able to make future predictions of data points. 🎼🧪  
 
 ---
 
@@ -18,22 +17,16 @@
 ## 🛠 **Skills and Tools**  
 - **Programming Language:** R  
 - **Libraries:** `ggplot2`, `lm`, `car`, etc.  
-- **Skills Demonstrated:** Data wrangling, linear regression analysis, model diagnostics, hypothesis testing, residual analysis.
+- **Skills Demonstrated:** Data wrangling, linear regression analysis, model diagnostics, residual analysis.
 
 ---
 
 ## 📊 Data Overview  
 
-The `spotify_data.csv` includes information about Spotify songs, focusing on numerical characteristics that may influence song popularity. Below are the covariates analyzed:  
+The `spotify_data.csv` includes information about Spotify songs. Below are the covariates analyzed:  
 
-- 🎵 **Popularity**: A measure of how well a track is received, based on streaming counts and social media buzz. 
-- ⏳ **Duration_ms**: The length of the track in milliseconds.  
-- 💃 **Danceability**: A score reflecting how suitable a track is for dancing.  
-- ⚡ **Energy**: An estimate of the intensity and activity level of a track.  
-- 🎸 **Acousticness**: A measure of how acoustic (non-electronic) a track sounds.  
-- 🎻 **Instrumentalness**: A score that predicts the likelihood of a track having no vocals.  
-- 🎤 **Liveness**: A measure of whether it feels like a live performance.  
-- 🎚️ **Tempo**: The speed of the track, measured in beats per minute (BPM).
+- **Dependent variable:** Popularity 
+- **Independent variables:** Duration_ms, Danceability, Energy, Acousticness, Instrumentalness, Liveness, Tempo
 
 ---
 
@@ -44,8 +37,7 @@ The `spotify_data.csv` includes information about Spotify songs, focusing on num
 
 ### **2. 🛠 Model Development**  
 - Built an **initial linear regression model** to explore relationships between predictors and song popularity.
-- Later, checking VIF values if multicollineariy was skewing our results.
-- Removed acoustiness and refit the model as it was skewing the model fit.
+- Checked VIF values to ensure multicollineariy wasn't skewing the results.
 
 ### **3. 🔍 Assumption Checks**  
 - Evaluated **model assumptions**:    
@@ -98,21 +90,20 @@ cat("High-leverage observations:", high_leverage * 100, "%\n")
 
 ### 🎓 **Conclusion**  
 
-🎵 It turns out, **danceability** stole the show as the key driver of song Popularity, while **energy, acousticness, and instrumentalness** tended to bring the vibe down. Despite refining the model, tackling multicollinearity, addressing assumption violations, and examining outlier effects, the model explained only 0.5% of variability. Progress may be incremental, but it’s still progress. Overall, this was a successful deep dive into the math behind the music! 🎶📈  
+It turns out, **danceability** stole the show as the key driver of song Popularity, while **energy, acousticness, and instrumentalness** tended to bring the vibe down. Despite refining the model, tackling multicollinearity, addressing assumption violations, and examining outlier effects, the model explained only 0.5% of variability. Progress may be incremental, but it’s still progress. Overall, this was a successful deep dive into the math behind the music! 🎶📈  
 
 ---
 
 ### ⚠️ **Future Recommendations**
 
- Even with all the tweaks and fixes, there’s still a ton of variability in popularity that the model couldn’t explain.
-
-   - 🚀 To point us in the right direction I recommend the following moving forward:
+   - To point us in the right direction I recommend the following moving forward:
 
      1. 📂 **Include More Covariates** - Add features such as **song genre**
      2. 🔗 **Add Interaction Terms** -  Explore how variables interact and contribute to song popularity when combined
      3. 🤖  **Try Advanced Models** - Experiment with **machine learning** models to uncover deeper patterns
 
 ---
+
 ### 📂 Access the R-File  
 
 Click [here](./Spotify%20Symphony.R) to explore the **Spotify Symphony** code in more detail.  
@@ -122,11 +113,5 @@ Click [here](../) to return to the table of contents.
 
 ---
 
-- Check out some of my other work:
-  - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)
-  - [🌺 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
-  - [👑 R Projects](https://github.com/JulianGriffin11/R_Projects) 
-
 Sincerely,  
 Julian
-
