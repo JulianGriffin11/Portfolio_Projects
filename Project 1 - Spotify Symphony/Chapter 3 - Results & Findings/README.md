@@ -1,4 +1,7 @@
-# 🎶 **Spotify Symphony: Final Project Report** 🎶
+# 🎶 **Chapter 3: Results & Findings** 🎶
+
+## 👋 **Welcome**  
+*Welcome to Chapter 3!* This is the "Results & Findings" section of the project!
 
 ## 📄 **Foundation**
 
