@@ -80,11 +80,11 @@ cat("High-leverage observations:", high_leverage * 100, "%\n")
 
 ### **6. ✅ Overall Results**  
 - Summarized key findings:  
-  - 🎉 **Danceability** had a positive relationship on song popularity.   
-  - ❌ **Energy, acousticness**, and **instrumentalness** negatively affected popularity.  
-  - 🔺 Approximately **7%** of the data had high leverage.    
-  - 🔮 No single observation was disproportionately affecting the model's coefficients.   
-  - 📉 Most variability of the data remains **unexplained**.  
+  1. **Danceability** had a positive relationship on song popularity.   
+  2. **Energy, acousticness**, and **instrumentalness** negatively affected popularity.  
+  3. Approximately **7%** of the data had high leverage.    
+  4. No single observation was disproportionately affecting the model's coefficients.   
+  5. Most variability of the data remains **unexplained**.  
 
 ---
 
@@ -96,11 +96,9 @@ It turns out, **danceability** stole the show as the key driver of song Populari
 
 ### ⚠️ **Future Recommendations**
 
-   - To point us in the right direction I recommend the following moving forward:
-
-     1. 📂 **Include More Covariates** - Add features such as **song genre**
-     2. 🔗 **Add Interaction Terms** -  Explore how variables interact and contribute to song popularity when combined
-     3. 🤖  **Try Advanced Models** - Experiment with **machine learning** models to uncover deeper patterns
+  1. 📂 **Include More Covariates** - Add features such as **song genre**
+  2. 🔗 **Add Interaction Terms** -  Explore how variables interact and contribute to song popularity when combined
+  3. 🤖  **Try Advanced Models** - Experiment with **machine learning** models to uncover deeper patterns
 
 ---
 
@@ -108,8 +106,6 @@ It turns out, **danceability** stole the show as the key driver of song Populari
 
 Click [here](./Spotify%20Symphony.R) to explore the **Spotify Symphony** code in more detail.  
 Click [here](../) to return to the table of contents.
-
-(Note: please download the **spotify_data.csv** as well and make sure the **working directory** is set to your local system)
 
 ---
 
