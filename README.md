@@ -1,8 +1,8 @@
-# 🧠 Portfolio Projects
+# 🧠 Julian Griffin - Portfolio Projects
 
 Welcome to my **Portfolio Projects** repository! 🌍  
 
-Here you will find my **Statistics, Data, and Financial Analytics** projects. Use the **heading links** to dive into each project!
+Here you will find my personal projects. Use the **heading links** to dive into each project!
 
 <img src="./Media/Main_Banner.jpg" alt="Projects Banner" width="700"/>
 
@@ -17,8 +17,7 @@ Here you will find my **Statistics, Data, and Financial Analytics** projects. Us
   - Dashboard Construction  
   - Pivot Table Analysis  
   - Linear Regression Analysis  
-  - Data Wrangling using libraries like `ggplot2`, `lm`, `car`, etc.
-- **Important Note**: Please ensure your working directory is set when accessing the R files!
+  - Data Wrangling
 
 <br>
 
@@ -39,10 +38,6 @@ Here you will find my **Statistics, Data, and Financial Analytics** projects. Us
 <br>
 
 <img src="./Media/PP_E_Dashboard.gif" alt="Visual of Dashboard" width="70%" />
-
-### Notes: 
-- For each project, you may need to download the necessary data files (like `spotify_data.csv`) and run them on your local system.
-- When accessing any code, please ensure that your **working directory** is set correctly to avoid path issues.
   
 ---
 
