@@ -3,7 +3,7 @@
 <img src="../../Media/SS_R_Run.gif" alt="Visual of Code" width="70%" />
 
 ## 🚀 **Foreword**  
-This section explores the dataset through **linear regression models**, **statistical insights**, and **assumption testing**, uncovering the mathematical backbone of song Popularity. By coding the line of best fit, we are able to make future predictions and derive key insights about the data. 🎼🧪  
+This section explores the dataset through **R**, using **linear regression models**, **statistical insights**, and **assumption testing**. Here, we uncover the mathematical backbone of song Popularity. By coding the line of best fit, we are able to make future predictions and derive key insights about the data. 🎼🧪  
 
 ---
 
