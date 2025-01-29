@@ -1,4 +1,7 @@
-# 🎧 **Spotify Symphony: Dashboard Analysis of Song Attributes** 🎧
+# 🎧 **Chapter 2: Excel Dashboard** 🎧
+
+## 👋 **Welcome**  
+*Welcome to Chapter 2!* This is the "Excel Dashboard" section of the project!
 
 <img src="../../Media/SS_E_Dashboard.gif" alt="Spotify Dashboard Visual" width="85%" />
 
