@@ -19,13 +19,9 @@ Here you will find my personal projects. Use the **heading links** to dive into 
   - Linear Regression Analysis  
   - Data Wrangling
 
-<br>
-
-<img src="./Media/SS_E_Dashboard.gif" alt="Visual of Dashboard" width="70%" />
-
 ---
 
-### 2. [**💎 Project 2 - Payday Perspectives 💎**](./Project%202%20-%20Payday%20Perspectives)
+### 2. [**💸 Project 2 - Payday Perspectives 💸**](./Project%202%20-%20Payday%20Perspectives)
  
 - **Summary**: This project uncovers the hidden treasures of the data job market, revealing the highest-paying positions and the skills that unlock them. Through a powerful dashboard and in-depth analysis, it paints a clear picture of technical skills, requirements, and opportunities to land my dream job. Will you join me in this mathematical journey?  
 - **Applications**: SQL, Excel  
@@ -34,10 +30,6 @@ Here you will find my personal projects. Use the **heading links** to dive into 
   - Conditional formatting  
   - Complex SQL queries with JOINs and subqueries  
   - Data aggregation using GROUP BY  
-
-<br>
-
-<img src="./Media/PP_E_Dashboard.gif" alt="Visual of Dashboard" width="70%" />
   
 ---
 
