@@ -9,33 +9,31 @@ Welcome to *Spotify Symphony*! In this project, I uncover the secrets behind Spo
 
 ---
 
-## 📚 **Table of Contents**
-1. [**Chapter 1: R Analysis**](./Chapter%201%20-%20R%20Analysis)
-   - **Building the Linear Regression Model**: Uncovering the factors that influence song Popularity.  
-   - Assumption Validation & Diagnostics
-
-2. [**Chapter 2: Excel Dashboard**](./Chapter%202%20-%20Excel%20Dashboard)
-   - **Deep Dive into Key Covariates**: Analyzing Danceability, Energy, Acousticness, and more!  
-   - **Dynamic Visualizations**: Interactive charts and fields to reveal valuable trends.  
-   - **Pivot Table Insights**: Unpacking specific impact of Danceability on song Popularity.
-
-3. [**Chapter 3: Results & Findings**](./Chapter%203%20-%20Results%20&%20Findings)
-   - **Regression Model Insights**: Assessing the effectiveness of the **linear regression model**.  
-   - **Provide Advice for Artists**: Offering actionable recommendations based on findings.
-   - **Highlight What I Learned**: Summarizing key takeaways, limitations, and quality.  
-  
----
-
 ### 🔍 **Questions to Analyze**
 - How do attributes like song Tempo and Danceability impact song Popularity?  
-- What key factors should artists and producers focus on to improve their chances of chart success?
+- What key factors should artists and producers focus on to improve their chances of chart success
+
+---
+
+## 📚 **Table of Contents**
+1. [**Chapter 1: R Analysis**](./Chapter%201%20-%20R%20Analysis)
+   - Building the Linear Regression Model
+   - Assumption Validation & Diagnostics
+
+2. [**Chapter 2: Excel Dashboard**](./Chapter%202%20-%20Excel%20Dashboard) 
+   - Dynamic Visualizations
+   - Pivot Table Insights
+
+3. [**Chapter 3: Results & Findings**](./Chapter%203%20-%20Results%20&%20Findings) 
+   - Provide Advice for Artists
+   - Highlight What I Learned 
 
 ---
 
 ### ⚙️ **Tools and Techniques**
-- **Excel**: Used for creating interactive Dashboards, Pivot Tables, and applying Conditional Formatting to analyze trends.  
-- **R**: A powerful tool for building the Linear Regression model, generating Diagnostic Plots, and conducting Multicollinearity Checks.  
-- **Key Libraries**: `ggplot2` (for visualizations), `lm()` (for regression modeling), `dplyr` (for data manipulation) and more!
+- **Excel**: Dashboards, Pivot Tables, and Conditional Formatting to analyze trends.  
+- **R**: Linear Regression model, Diagnostic Plots, and Multicollinearity Checks.  
+- **Key Libraries**: `ggplot2`, `lm()`, `dplyr` and more!
 
 ---
 
