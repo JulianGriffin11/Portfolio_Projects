@@ -2,9 +2,9 @@
 
 <img src="../../Media/SS_E_Dashboard.gif" alt="Spotify Dashboard Visual" width="85%" />
 
-## 🚀 Introduction  
+## 🚀 Foreword  
 
-**Spotify Symphony** embarks on an exciting journey to **decode** the relationship between song attributes and their **popularity**. Leveraging the power of an interactive **Excel Dashboard**, this part of the project **dazzles** with visually compelling insights into key covariates like **Danceability**, **Energy**, and **Tempo**. Watch the story unfold through **interactive visualizations**, **pivot tables**, and more! 🎶📊
+In this section, by leveraging the power of an interactive **Excel Dashboard**, I **dazzle** with visually compelling insights into key covariates like **Danceability**, **Energy**, and **Tempo**. Watch the story unfold through **interactive visualizations**, **pivot tables**, and more! 🎶📊
 
 
 ---
@@ -19,31 +19,11 @@
 
 ## Excel Skills Used  
 
-- **🌐 Dashboard Creation**
-- **🧬 Pivot Tables**  
-- **🕹️Conditional Formatting**  
-- **🔍 Data Filtering**  
-- **📲 Data Visualization**  
-
----
-
-## Data Overview  
-
-The dataset includes information on Spotify song attributes and their popularity, such as:  
-
-
-| **Variable**        | **Description**                                                                                   |
-|----------------------|---------------------------------------------------------------------------------------------------|
-| **📊 Popularity**       | How well a track is received, based on **streaming counts** and **social media buzz**.       |
-| **⏱️ Duration_ms**      | The total **length of the track** in milliseconds—how long the song plays.                     |
-| **💃 Danceability**     | Reflects how **danceable** a track is, based on tempo, rhythm, and beat stability.            |
-| **⚡ Energy**           | Measures the **intensity** and activity level of a track—higher energy means more excitement! |
-| **🎸 Acousticness**     | Shows how **acoustic** (non-electronic) a track is—perfect for those chill acoustic vibes.     |
-| **🎹 Instrumentalness** | Predicts the likelihood of a track being **instrumental** (no vocals included).               |
-| **🎤 Liveness**         | Indicates whether a track feels like a **live performance**, based on audience presence.      |
-| **🎵 Tempo**            | The **speed** of the track in **beats per minute (BPM)**—is it fast, slow, or in between?     |
-
-<br>
+- Dashboard Creation
+- Pivot Tables
+- Conditional Formatting
+- Data Filtering  
+- Data Visualization 
 
 ---
 
@@ -107,11 +87,6 @@ Click [here](Spotify_Symphony.xlsx) to explore the **Excel Dashboard** in more d
 Click [here](../) to return to the table of contents.
 
 ---
-
-- Check out some of my other work:
-  - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)
-  - [🌺 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
-  - [👑 R Projects](https://github.com/JulianGriffin11/R_Projects) 
 
 Kind Regards,  
 **Julian Griffin**
