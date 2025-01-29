@@ -3,7 +3,7 @@
 <img src="../../Media/SS_R_Run.gif" alt="Visual of Code" width="70%" />
 
 ## 🚀 **Foreword**  
-This section explores the dataset through **linear regression models**, **statistical insights**, and **assumption testing**, uncovering the mathematical backbone of song Popularity. By coding the line of best fit, we are able to make future predictions of data points. 🎼🧪  
+This section explores the dataset through **linear regression models**, **statistical insights**, and **assumption testing**, uncovering the mathematical backbone of song Popularity. By coding the line of best fit, we are able to make future predictions and derive key insights about the data. 🎼🧪  
 
 ---
 
@@ -70,7 +70,7 @@ abline(h = 0, col = "red")
   - **Hat values** for leverage.  
   - **Cook’s distance** for influence.
 
-  Example of code used for this analysis:
+Example of code used for this analysis:
 ```R
 # Calculate leverage points using hat values
 hat_values <- hatvalues(model_reduced)
@@ -91,14 +91,6 @@ cat("High-leverage observations:", high_leverage * 100, "%\n")
 ### 🎓 **Conclusion**  
 
 It turns out, **danceability** stole the show as the key driver of song Popularity, while **energy, acousticness, and instrumentalness** tended to bring the vibe down. Despite refining the model, tackling multicollinearity, addressing assumption violations, and examining outlier effects, the model explained only 0.5% of variability. Progress may be incremental, but it’s still progress. Overall, this was a successful deep dive into the math behind the music! 🎶📈  
-
----
-
-### ⚠️ **Future Recommendations**
-
-  1. 📂 **Include More Covariates** - Add features such as **song genre**
-  2. 🔗 **Add Interaction Terms** -  Explore how variables interact and contribute to song popularity when combined
-  3. 🤖  **Try Advanced Models** - Experiment with **machine learning** models to uncover deeper patterns
 
 ---
 
