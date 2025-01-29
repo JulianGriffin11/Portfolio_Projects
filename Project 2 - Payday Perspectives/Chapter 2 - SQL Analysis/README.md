@@ -1,4 +1,8 @@
-# 💲 **Payday Perspectives: SQL Queries and Analysis** 💲
+# [💵 Chapter 1: SQL Analysis 💵](./Spotify%20Symphony.R)
+
+## 👋 **Welcome**  
+
+*Welcome to Chapter 2!* This is the "SQL Analysis" section of the project!
 
 <img src="../../Media/PP_S_SQL1.jpeg" alt="Visual of SQL" width="80%" />
 
