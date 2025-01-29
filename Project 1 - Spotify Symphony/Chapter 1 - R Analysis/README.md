@@ -8,9 +8,9 @@ This section explores the dataset through **linear regression models**, **statis
 ---
 
 ## 🎯 **Objectives**  
-1. 🕵️‍♂️ Understand the significant factors influencing **song popularity**.  
-3. ✅ Ensure **model assumptions** (normality, homoscedasticity, linearity) are met.
-3. 🔄 Refine the model for better accuracy.   
+1. Understand the significant factors influencing **song popularity**.  
+2. Ensure **model assumptions** (normality, homoscedasticity, linearity) are met.
+3. Refine the model for better accuracy.   
 
 ---
 
