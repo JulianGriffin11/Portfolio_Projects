@@ -1,6 +1,9 @@
-# [🎵 Spotify Symphony: A Linear Regression of Spotify Data 🎵](./Spotify%20Symphony.R)
+# [🎵 Chapter 1: R Analysis 🎵](./Spotify%20Symphony.R)
 
-<img src="../../Media/SS_R_Run.gif" alt="Visual of Code" width="70%" />
+## 👋 **Welcome**  
+*Welcome to Chapter 1!* This is the "R Programming" section of the project!
+
+<img src="../../Media/SS_R_Run.gif" alt="Salary Dashboard" width="65%" />
 
 ## 🚀 **Foreword**  
 This section explores the dataset through **R**, using **linear regression models**, **statistical insights**, and **assumption testing**. Here, we uncover the mathematical backbone of song Popularity. By coding the line of best fit, we are able to make future predictions and derive key insights about the data. 🎼🧪  
