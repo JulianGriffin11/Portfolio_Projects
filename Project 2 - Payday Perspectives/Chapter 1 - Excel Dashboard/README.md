@@ -1,4 +1,4 @@
-# [💰 Chapter 1: Excel Dashboard](Payday%20Perspectives.xlsx) 
+# [💰 Chapter 1: Excel Dashboard 💰](Payday%20Perspectives.xlsx) 
 
 ## 👋 **Welcome**  
 *Welcome to Chapter 1!* This is the "Excel Dashboard" section of the project!
