@@ -33,7 +33,6 @@ Welcome to *Spotify Symphony*! In this project, I uncover the secrets behind Spo
 ### ⚙️ **Tools and Techniques**
 - **Excel**: Dashboards, Pivot Tables, and Conditional Formatting to analyze trends.  
 - **R**: Linear Regression model, Diagnostic Plots, and Multicollinearity Checks.  
-- **Key Libraries**: `ggplot2`, `lm()`, `dplyr` and more!
 
 ---
 
