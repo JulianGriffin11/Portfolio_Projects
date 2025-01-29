@@ -1,4 +1,4 @@
-# 🧠 Julian Griffin - Portfolio Projects
+# 🧠 Julian Griffin's - Personal Projects
 
 Welcome to my **Portfolio Projects** repository! 🌍  
 
