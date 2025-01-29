@@ -22,11 +22,13 @@ In this project, we set out to uncover what makes a song popular on Spotify. By 
 
 ## 🌏 **2. Methodology**
 
-The project uses a combination of **Excel** 📊 for data visualization and **R** 🧮 for statistical analysis.   
+1️⃣ **Chapter 1**, the goal was to statistically model and interpret the key factors influencing song popularity. 
+- I employed **R** to apply linear regression and further refine the linear model.
+- I addressed issues like multicollinearity, assumption violations, and outliers.
 
-1️⃣ **Chapter 1**, the goal was to statistically model and interpret the key factors influencing song popularity. Here, I employed **R** to apply linear regression and further refine the linear model. To check my work I addressed issues like multicollinearity, assumption violations, and outliers, aiming to capture the key factors driving song popularity.
-
-2️⃣ **Chapter 2**, the goal was to visually present trends and patterns in an accessible and user-friendly format. Here, I created an interactive **Excel Dashboard** that allowed users to intuitively and seamlessly access the data. Using features like slicers, conditional formatting, and pivot tables, the dashboard enabled an in-depth exploration of how different attributes correlated with song success. 
+2️⃣ **Chapter 2**, the goal was to visually present trends and patterns in an accessible and user-friendly format.
+- I created an interactive **Excel Dashboard** that allowed users to intuitively and seamlessly access the data.
+- Used features like slicers, conditional formatting, and pivot tables. 
 
 Both served as compliments to reveal the algorithm's secrets.
 
@@ -34,9 +36,9 @@ Both served as compliments to reveal the algorithm's secrets.
 
 ## 💣 **3. Key Findings**
 
-- **Danceability** had the strongest positive correlation with Popularity.
-- The **linear regression model** explained only 0.5% of the variability in Popularity, highlighting the complexity of predicting song success.
-- **Pivot tables** in Excel revealed that Danceability scores between 0.6 and 0.8 had the highest median popularity.
+1. **Danceability** had the strongest positive correlation with Popularity.
+2. The **linear regression model** explained only 0.5% of the variability in Popularity, highlighting the complexity of predicting song success.
+3. **Pivot tables** in Excel revealed that Danceability scores between 0.6 and 0.8 had the highest median popularity.
 
 <img src="../../Media/SS_E_Pivot.gif" alt="Pivot Table Example" width="60%" />
 
@@ -50,13 +52,13 @@ Both served as compliments to reveal the algorithm's secrets.
 
 ---
 
-## ⛵**5. Interpretation of Results**
+## ⛵**5. Improvements**
 
-While the linear regression model did not explain a large percentage of the variability in popularity, it still provided valuable insights into the relative importance of each attribute. The limited predictive power of the model indicates that there are other, unknown factors influencing popularity. 
+While the linear regression model did not explain a large percentage of the variability in popularity, it still provided valuable insights.
 
 🚀 Future improvements could involve:
 
-  1. 🤖 **Try Advanced Models** - Experiment with **machine learning** models to uncover deeper patterns of song popularity.
+  1. 🤖 **Try Advanced Models** - Experiment with **machine learning** models to improve accuracy.
   2. 📂 **Collect More Data** - Gather additional data, such as social media mentions, to improve the model’s accuracy.
   3. 💡 **Refine Feature Selection** - Explore more song attributes to see if they improve the model's predictive power.
   
@@ -66,11 +68,9 @@ While the linear regression model did not explain a large percentage of the vari
 
 Through this project, I gained valuable insights. Here are the three key takeaways:
 
-1. **Advanced Models are Required for Real-World Applications** - While basic models like linear regression can offer initial insights, more sophisticated models are essential for predicting real-world phenomena accurately.
-2. **Visualizations are a Must to Present Findings** - The use of visual tools like dashboards and charts helps make complex data more accessible and understandable.
-3. **Communication is just as Important as Content** - No matter how insightful your analysis is, being able to clearly communicate your findings to others is crucial for making an impact.
-
-This project reinforced the importance of continuous exploration and adaptation when analyzing trends and patterns in data.
+1. **Application** - While basic models can offer initial insights, more sophisticated models are essential for real-world data.
+2. **Visualization** - The use of visual tools like dashboards are essential to make complex data more understandable.
+3. **Communication** - No matter how insightful your analysis is, being able to clearly communicate your findings to others is crucial.
 
 ---
 
