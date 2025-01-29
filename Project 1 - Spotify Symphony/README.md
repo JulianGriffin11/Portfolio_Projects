@@ -5,7 +5,9 @@
 ---
 
 ## 🎬 **Background**  
-Welcome to *Spotify Symphony*! In this project, I uncover the secrets behind Spotify’s algorithm by exploring how song attributes impact their Popularity. Using a mix of **Excel** and **R**, I build a linear regression model to analyze factors like **Danceability**, **Tempo**, and **Energy**, providing valuable insights into what makes a track successful. This project blends statistical analysis, data visualization, and practical insights in a fascinating way.
+Welcome to *Spotify Symphony*! In this project, I uncover the secrets behind Spotify’s algorithm by exploring how song attributes impact their Popularity. Given a data set by Kelly Ramsay, I aimed to explore the spotify dataset to find future trends.
+
+Using a mix of **Excel** and **R**, I build a linear regression model to analyze factors like **Danceability**, **Tempo**, and **Energy**, providing valuable insights into what makes a track successful. This project blends statistical analysis, data visualization, and practical insights in a fascinating way.
 
 ---
 
