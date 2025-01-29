@@ -12,8 +12,7 @@ Welcome to *Spotify Symphony*! In this project, I uncover the secrets behind Spo
 ## 📚 **Table of Contents**
 1. [**Chapter 1: R Analysis**](./Chapter%201%20-%20R%20Analysis)
    - **Building the Linear Regression Model**: Uncovering the factors that influence song Popularity.  
-   - **Assumption Validation & Diagnostics**: Visual insights through detailed diagnostic plots.  
-   - **Data Set**: `spotify_data.csv`
+   - Assumption Validation & Diagnostics
 
 2. [**Chapter 2: Excel Dashboard**](./Chapter%202%20-%20Excel%20Dashboard)
    - **Deep Dive into Key Covariates**: Analyzing Danceability, Energy, Acousticness, and more!  
