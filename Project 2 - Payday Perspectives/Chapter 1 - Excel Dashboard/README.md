@@ -1,4 +1,7 @@
-# [💰 Payday Perspectives: Salary Analytics Dashboard 💰](Payday%20Perspectives.xlsx) 
+# [💰 Chapter 1: Excel Dashboard](Payday%20Perspectives.xlsx) 
+
+## 👋 **Welcome**  
+*Welcome to Chapter 1!* This is the "Excel Dashboard" section of the project!
 
 <img src="../../Media/PP_E_Dashboard.gif" alt="Salary Dashboard" width="85%" />
 
@@ -20,11 +23,11 @@ By incorporating **📊 charts**, **📑 pivot tables**, and **✨ dynamic visua
 
 ## 📈 Excel Skills Used  
 
-- **🔍 Filtering and Sorting**
-- **📊 Pivot Tables**  
-- **📌 Conditional Formatting**  
-- **🔄 Data Cleaning and Validation**  
-- **🧮 Statistical Analysis**  
+- **Filtering and Sorting**
+- **Pivot Tables**  
+- **Conditional Formatting**  
+- **Data Cleaning and Validation**  
+- **Statistical Analysis**  
 
 ---
 
@@ -104,11 +107,6 @@ Click [here](Payday%20Perspectives.xlsx) to explore the **Payday Perspectives** 
 Click [here](../) to return to the table of contents.
 
 ---
-
-- Check out some of my other work:
-  - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)
-  - [🌺 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
-  - [👑 R Projects](https://github.com/JulianGriffin11/R_Projects) 
 
 Kind Regards,  
 Julian
