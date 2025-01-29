@@ -14,21 +14,9 @@
 
 ---
 
-## 📑 **Table of Contents**
+## 📖 **1. Foreword**
 
-1. [Introduction](#1-introduction)
-2. [Methodology](#2-methodology)
-3. [Key Findings](#3-key-findings)
-4. [Insights for Artists & Producers](#4-insights-for-artists--producers)
-5. [Interpretation of Results](#5-interpretation-of-results)
-6. [What I Learned](#6-what-i-learned)
-
-
----
-
-## 📖 **1. Introduction**
-
-In this project, we set out to uncover what makes a song popular on Spotify. By analyzing key song attributes such as **Danceability**, **Energy**, and **Tempo**, I built a linear regression model in **R** to explore how these factors contribute to a song’s success. Along with an interactive **Excel dashboard**, this report aims to bring everything together and provide actionable insights for producers and artists.
+In this project, we set out to uncover what makes a song popular on Spotify. By analyzing key song attributes such as **Danceability**, **Energy**, and **Tempo**, I built a linear regression model in **R** along with an interactive dashboard in **Excel**. This report aims to bring everything together and provide actionable insights for producers and artists.
 
 ---
 
@@ -36,9 +24,9 @@ In this project, we set out to uncover what makes a song popular on Spotify. By 
 
 The project uses a combination of **Excel** 📊 for data visualization and **R** 🧮 for statistical analysis.   
 
-1️⃣ In **Chapter 1**, the goal was to statistically model and interpret the key factors influencing song popularity. Here, I employed **R** to apply linear regression and further refine the linear model. To check my work I addressed issues like multicollinearity, assumption violations, and outliers, aiming to capture the key factors driving song popularity.
+1️⃣ **Chapter 1**, the goal was to statistically model and interpret the key factors influencing song popularity. Here, I employed **R** to apply linear regression and further refine the linear model. To check my work I addressed issues like multicollinearity, assumption violations, and outliers, aiming to capture the key factors driving song popularity.
 
-2️⃣ In **Chapter 2**, the goal was to visually present trends and patterns in an accessible and user-friendly format. Here, I created an interactive **Excel Dashboard** that allowed users to intuitively and seamlessly access the data. Using features like slicers, conditional formatting, and pivot tables, the dashboard enabled an in-depth exploration of how different attributes correlated with song success. 
+2️⃣ **Chapter 2**, the goal was to visually present trends and patterns in an accessible and user-friendly format. Here, I created an interactive **Excel Dashboard** that allowed users to intuitively and seamlessly access the data. Using features like slicers, conditional formatting, and pivot tables, the dashboard enabled an in-depth exploration of how different attributes correlated with song success. 
 
 Both served as compliments to reveal the algorithm's secrets.
 
