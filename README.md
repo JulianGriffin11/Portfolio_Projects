@@ -17,7 +17,6 @@ Here you will find my personal projects. Use the **heading links** to dive into 
   - Dashboard Construction  
   - Pivot Table Analysis  
   - Linear Regression Analysis  
-  - Data Wrangling
 
 ---
 
@@ -29,7 +28,6 @@ Here you will find my personal projects. Use the **heading links** to dive into 
   - Advanced Excel functions (e.g., **VLOOKUP**, **INDEX-MATCH**)  
   - Conditional formatting  
   - Complex SQL queries with JOINs and subqueries  
-  - Data aggregation using GROUP BY  
   
 ---
 
